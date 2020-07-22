@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/raghu412/privado.git/static/css/main.37a258f1.chunk.css",
-    "main.js": "/raghu412/privado.git/static/js/main.94622b0a.chunk.js",
-    "main.js.map": "/raghu412/privado.git/static/js/main.94622b0a.chunk.js.map",
-    "runtime-main.js": "/raghu412/privado.git/static/js/runtime-main.20ce930a.js",
-    "runtime-main.js.map": "/raghu412/privado.git/static/js/runtime-main.20ce930a.js.map",
-    "static/js/2.cf01dc0c.chunk.js": "/raghu412/privado.git/static/js/2.cf01dc0c.chunk.js",
-    "static/js/2.cf01dc0c.chunk.js.map": "/raghu412/privado.git/static/js/2.cf01dc0c.chunk.js.map",
-    "index.html": "/raghu412/privado.git/index.html",
-    "precache-manifest.2f3e2446bb3b65be189770a7ffff28e1.js": "/raghu412/privado.git/precache-manifest.2f3e2446bb3b65be189770a7ffff28e1.js",
-    "service-worker.js": "/raghu412/privado.git/service-worker.js",
-    "static/css/main.37a258f1.chunk.css.map": "/raghu412/privado.git/static/css/main.37a258f1.chunk.css.map",
-    "static/js/2.cf01dc0c.chunk.js.LICENSE.txt": "/raghu412/privado.git/static/js/2.cf01dc0c.chunk.js.LICENSE.txt"
+    "main.css": "/raghu412/privado/static/css/main.37a258f1.chunk.css",
+    "main.js": "/raghu412/privado/static/js/main.a6c45593.chunk.js",
+    "main.js.map": "/raghu412/privado/static/js/main.a6c45593.chunk.js.map",
+    "runtime-main.js": "/raghu412/privado/static/js/runtime-main.77e0e85a.js",
+    "runtime-main.js.map": "/raghu412/privado/static/js/runtime-main.77e0e85a.js.map",
+    "static/js/2.cf01dc0c.chunk.js": "/raghu412/privado/static/js/2.cf01dc0c.chunk.js",
+    "static/js/2.cf01dc0c.chunk.js.map": "/raghu412/privado/static/js/2.cf01dc0c.chunk.js.map",
+    "index.html": "/raghu412/privado/index.html",
+    "precache-manifest.9093e9d6f37c44945105c03a6cd23e7e.js": "/raghu412/privado/precache-manifest.9093e9d6f37c44945105c03a6cd23e7e.js",
+    "service-worker.js": "/raghu412/privado/service-worker.js",
+    "static/css/main.37a258f1.chunk.css.map": "/raghu412/privado/static/css/main.37a258f1.chunk.css.map",
+    "static/js/2.cf01dc0c.chunk.js.LICENSE.txt": "/raghu412/privado/static/js/2.cf01dc0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.20ce930a.js",
+    "static/js/runtime-main.77e0e85a.js",
     "static/js/2.cf01dc0c.chunk.js",
     "static/css/main.37a258f1.chunk.css",
-    "static/js/main.94622b0a.chunk.js"
+    "static/js/main.a6c45593.chunk.js"
   ]
 }
